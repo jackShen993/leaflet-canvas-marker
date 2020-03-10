@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-canvas-marker",
+  "version": "1.0.0",
+  "description": "基于leaflet,使用canvas绘制marker,极大优化同屏最多容纳marker的性能，最多10w+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "canvas",
+    "marker"
+  ],
+  "author": "jackshen",
+  "license": "ISC",
+  "dependencies": {
+    "rbush": "^3.0.1"
+  }
+}
