@@ -20,7 +20,11 @@
 + 可以配置z-index
 
 ### 待新增功能
-+ 隐藏和显示图层
++ 隐藏和显示图层,可自行设置display来实现
++ 销毁图层 dispose
+
+### demo示例
++ http://jackshen.top/gis/#/differ/muiltmarkerscode
 
 ### 可能存在的问题
 + 多个canvaslayer 事件触发时，会一起触发，所以建议只在一个layer上注册事件
